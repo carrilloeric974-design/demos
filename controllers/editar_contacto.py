@@ -81,4 +81,4 @@ class EditarContacto:
         }
         resultado = self.actualizarContacto(contacto)
         return resultado
-        #raise web.seeother('/lista_contactos')
+        #raise web.seeother('/')
